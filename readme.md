@@ -5,8 +5,4 @@
 Tecnologias:<br>
 [x] HTML<br>
 [x] CSS 🎨<br>
-[ ] JavaScript
-
-<h4 align="center">
-    :construction:  Projeto em construção  :construction:
-</h4>
+[x] JavaScript
